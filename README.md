@@ -8,7 +8,11 @@ test for git
 
 
 
-به کار با دستورات برای رسیدن به تی تاپ.
+به کار با دستورات برای رسیدن به
+
+
+
+salam تی تاپ.
 
 [فهرست اصلی دستورات اینجا هستن](http://linuxbook.ir/chapters/common_shell_commands.html)
 
